@@ -1,7 +1,7 @@
 # CMC_Lab3_project
 ## A sound art performance to support Ukraine. 
 Catalunya amb Ucraïna. PER LA PAU, LA LLIBERTAT I ELS DRETS HUMANS.
-
+![text](https://github.com/felixCheungcheung/CMC_Lab3_project/blob/main/per_la_pau.jpg)
 
 ## Title: “**A Russian Bomber was hit and it crashed finally”**
 
